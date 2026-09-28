@@ -70,7 +70,7 @@ The models are evaluated using:
 
 | File | Description |
 |---|---|
-| `Medical_Insurance_Regression_Simple.ipynb` | Jupyter Notebook containing preprocessing, model training, Gradient Descent, evaluation, and graphs |
+| `Medical_Insurance_Regression_Model.ipynb` | Jupyter Notebook containing preprocessing, model training, Gradient Descent, evaluation, and graphs |
 | `medical_insurance_cleaned_new.csv` | Cleaned dataset used for the experiment |
 | `README.md` | Project documentation |
 
@@ -170,7 +170,4 @@ The trained model file is not required to run the notebook because the notebook 
 
 ## Author
 
-**Student Name:** ____________________  
-**PRN:** ____________________  
-**Branch:** ENTC  
-**Practical:** Regression Model and Gradient Descent
+**Name:** Chandraharsh Gupte
