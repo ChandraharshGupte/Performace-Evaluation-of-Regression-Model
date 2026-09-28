@@ -164,9 +164,6 @@ Medical insurance charges are predicted using Linear Regression and evaluated us
 
 Gradient Descent is implemented from scratch for Linear Regression, and its cost reduction, convergence behavior, and prediction performance are analyzed.
 
-## Notes
-
-The trained model file is not required to run the notebook because the notebook trains the models directly from the cleaned CSV dataset. If a trained model is uploaded separately, it should be treated as an output artifact rather than a required input.
 
 ## Author
 
